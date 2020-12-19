@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "87ZtniFoysVcJycnG1HY75kG+Pzc3pbEYbbgWH5Tgilmuj0i5gtvpNfUyYo0TvBePaHiY1xosKp/A93FvmOVEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Test_Technique_PWC_KDO\\Test_Technique_PWC_Solution\\Test_Technique_PWC\\Test_Technique_PWC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
