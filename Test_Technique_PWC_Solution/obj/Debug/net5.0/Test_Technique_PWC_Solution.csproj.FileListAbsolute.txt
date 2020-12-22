@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\Test_Technique_PWC_KDO\Test_Technique_PWC_Solution\obj\Debug\net5.0\Test_Technique_PWC_Solution.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Test_Technique_PWC_KDO\Test_Technique_PWC_Solution\obj\Debug\net5.0\Test_Technique_PWC_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Test_Technique_PWC_KDO\Test_Technique_PWC_Solution\obj\Debug\net5.0\Test_Technique_PWC_Solution.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Test_Technique_PWC_KDO\Test_Technique_PWC_Solution\obj\Debug\net5.0\Test_Technique_PWC_Solution.AssemblyInfo.cs
+C:\Users\user\source\repos\Test_Technique_PWC_KDO\Test_Technique_PWC_Solution\obj\Debug\net5.0\Test_Technique_PWC_Solution.csproj.CoreCompileInputs.cache
