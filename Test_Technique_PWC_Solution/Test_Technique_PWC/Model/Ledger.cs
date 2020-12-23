@@ -7,9 +7,9 @@ namespace Test_Technique_PWC.Model
 {
     public class Ledger
     {
-        public string Id { get; set; }
-        public string AccountId { get; set; }
-        public string EntryId { get; set; }
+        public int Id { get; set; }
+        public int AccountId { get; set; }
+        public int EntryId { get; set; }
         public float Amount { get; set; }
     }
 }
